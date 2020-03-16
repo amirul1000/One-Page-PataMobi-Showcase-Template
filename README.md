@@ -7,7 +7,7 @@ HTML portfolio template with bootstrap,css,js,carousel
 
 Free theme
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/hK9hjW2fPnQ
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
